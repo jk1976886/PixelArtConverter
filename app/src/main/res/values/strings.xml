@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pixel Art Converter</string>
+    <string name="button_select_image">Choose an image</string>
+    <string name="button_start_image_processing">Start!</string>
+    <string name="hotizontal_pixel_count">32</string>
+    <string name="vertical_pixel_count">32</string>
+</resources>
